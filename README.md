@@ -21,7 +21,7 @@
 
 <br><br>
 
-hi, I'm Igor Che, a passionate backend self-taught developer from Russia. my passion for software is to come up with ideas and bring them). i try to develop and use different programming languages: such as `solidity`, `c#`, `python`, `php`, `js`
+hi, I'm Igor Che, a passionate backend self-taught developer from ~~Russia~~ Indonesia. my passion for software is to come up with ideas and bring them). i try to develop and use different programming languages: such as `solidity`, `c#`, `python`, `php`, `js`
 
 📈 my github stats
 
