@@ -15,7 +15,7 @@
   twitter.com
 </a>
 <a href="https://www.linkedin.com/in/irog/">
-  www.linkedin.com
+  linkedin
 </a>
 </center>
 
